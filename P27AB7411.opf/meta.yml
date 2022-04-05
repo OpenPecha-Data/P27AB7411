@@ -1,0 +1,33 @@
+id: P27AB7411
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA20181
+  instance_id: http://purl.bdrc.io/resource/IE20181
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དག་ཡིག་རིག་པའི་གབ་པ་མངོན་ཕྱུང་།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - zang wen zheng zi xue fa yin
+    en-x-mixed:
+    - Dag yig rig paʾi gab pa mṅon phyuṅ /Dpaʾ-ris Saṅs-rgyas kyis brtsams.
+  author: http://purl.bdrc.io/resource/P6256
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    65bf00c737ca4498b8c988001f852723:
+      title: པོད ༡་དག་ཡིག་རིག་པའི་གབ་པ་མངོན་ཕྱུང
+      volume_number: 1
+      base_file: UT20181_4733_0000.txt
+      reference: http://purl.bdrc.io/resource/VL59A8CD6247C0C046
+      image_group: '4733'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W20181
+  - http://purl.bdrc.io/resource/MW20181
+  ocr_software: Namsel
+created_at: '2021-12-22T11:05:14.128615'
+last_modified_at: '2021-12-22T11:05:14.128622'
